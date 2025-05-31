@@ -18,7 +18,7 @@ Sou um QA com foco em testes manuais, APIs e documentação. Fiz minha transiç�
 - ✅ Testes Manuais e Exploratórios
 - ✅ Validação de Releases (fixes, melhorias e novas funcionalidades)
 - ✅ Testes de API com Postman (intermediário)
-- ✅ Consultas com MySQL usando DBeaver ou MySQL Workbench
+- ✅ Consultas com MySQL usando MySQL Workbench
 - ✅ Criação de Documentação Funcional e Técnica
 - ✅ Conhecimento prático em Gherkin
 - ✅ Noções de Cypress
