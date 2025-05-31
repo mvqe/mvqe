@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/marcosviniciusconnect)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/mvqe)
-[![Badge Postman](https://img.shields.io/badge/Postman%20Student%20Expert-orange?logo=postman)]([https://badgr.com/public/assertions](https://badgr.com/backpack/badges/66205e44170b5756600915eb)) <!-- substitua o link se tiver um URL direto para sua badge -->
 
 ---
 
