@@ -47,9 +47,9 @@ Sou um QA com foco em testes manuais, APIs e documentação. Fiz minha transiç�
 
 ---
 
-### 🔹 [Testes de API com Robot Framework – WalkDog (Happy Path)](https://github.com/mvqe/walkdog-rf-happy-path-tests)
+### 🔹 [Automação com Robot Framework – WalkDog (Happy Path)](https://github.com/mvqe/walkdog-rf-happy-path-tests)
 
-> 🤖 Projeto de testes automatizados para a API fictícia WalkDog, focando no fluxo principal de uso com o Robot Framework e linguagem Gherkin.
+> 🤖 Projeto de testes automatizados para a aplicação WalkDog, focando no fluxo principal de uso com o Robot Framework e linguagem Gherkin.
 
 **Tecnologias**: Robot Framework, Gherkin  
 **Destaque**: Scripts bem estruturados com cenários organizados por diretórios e validações no padrão BDD.
