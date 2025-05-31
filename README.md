@@ -38,7 +38,7 @@ Sou um QA com foco em testes manuais, APIs e documentação. Fiz minha transiç�
 
 ---
 
-### 🔹 [Testes de API com Postman – Happy Path (Server Rest API)](https://github.com/mvqe/server-rest-api-happy-path-postman-tests)
+### 🔹 [Testes de API com Postman – Server Rest API (Happy Path)](https://github.com/mvqe/server-rest-api-happy-path-postman-tests)
 
 > 🔍 Coleções de testes organizadas com variáveis globais, pré-requisitos e scripts para checagem de resposta em uma API REST fictícia.
 
