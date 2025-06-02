@@ -29,7 +29,7 @@ Sou um QA com foco em testes manuais, APIs e documentação. Fiz minha transiç�
 
 ## 📂 Projetos em Destaque
 
-### 🔹 [Automação com Cypress + BDD (comentado) – CAC-TAT](https://github.com/mvqe/CAC-TAT-cypress-tests)
+### 🔹 [Cypress + BDD (comentado) – Testes E2E no CAC-TAT](https://github.com/mvqe/CAC-TAT-cypress-tests)
 
 > 🧪 Adaptei o projeto do curso da Talking About Testing School utilizando comentários em formato BDD seguidos pela automação dos testes com Cypress.
 
@@ -38,7 +38,7 @@ Sou um QA com foco em testes manuais, APIs e documentação. Fiz minha transiç�
 
 ---
 
-### 🔹 [Testes de API com Postman – Server Rest API (Happy Path)](https://github.com/mvqe/server-rest-api-happy-path-postman-tests)
+### 🔹 [Postman – Testes de API (Happy Path) no Server Rest API](https://github.com/mvqe/server-rest-api-happy-path-postman-tests)
 
 > 🔍 Coleções de testes organizadas com variáveis globais, pré-requisitos e scripts para checagem de resposta em uma API REST fictícia.
 
@@ -47,7 +47,7 @@ Sou um QA com foco em testes manuais, APIs e documentação. Fiz minha transiç�
 
 ---
 
-### 🔹 [Automação com Robot Framework – WalkDog (Happy Path)](https://github.com/mvqe/walkdog-rf-happy-path-tests)
+### 🔹 [Robot Framework – Testes E2E (Happy Path) no WalkDog](https://github.com/mvqe/walkdog-rf-happy-path-tests)
 
 > 🤖 Projeto de testes automatizados para a aplicação WalkDog, focando no fluxo principal de uso com o Robot Framework e linguagem Gherkin.
 
