@@ -25,7 +25,7 @@ Sou um QA com foco em testes manuais, automação com Cypress, testes de API e d
 - ✅ Escrita de documentação funcional e técnica
 - ✅ Conhecimento prático em Gherkin
 
-**Ferramentas**: Cypress · Postman · MySQL Workbench · Notion · Git · Trello
+**Ferramentas**: Cypress · Postman · MySQL Workbench · Miro · Git · Trello
 
 ---
 
@@ -51,7 +51,7 @@ Sou um QA com foco em testes manuais, automação com Cypress, testes de API e d
 
 ### 🔹 [Cypress – Testes E2E (Happy Path) no WalkDog](https://github.com/mvqe/walkdog-e2e-cypress-tests)
 
-> 🤖 Testes automatizados do fluxo principal da aplicação fictícia WalkDog, utilizando Cypress para validar o comportamento esperado.
+> 🤖 Testes automatizados do fluxo principal da aplicação fictícia WalkDog, utilizando Cypress para validar o comportamento esperado (projeto orig.
 
 **Tecnologias**: Cypress  
 **Destaque**: Estrutura limpa e aplicação de boas práticas na automação.
