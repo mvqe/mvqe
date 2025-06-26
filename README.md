@@ -1,29 +1,31 @@
 # 👋 Olá! Eu sou o Marcos Vinícius Amaral Marques
 
-🎯 **QA Analyst | Manual & API Testing | Documentação Técnica | Ex-professor de musculação**
+🎯 **QA Analyst | Testes Manuais & Automatizados com Cypress | Documentação Técnica | Ex-Professor de Musculação**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/marcosviniciusconnect)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/mvqe)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=flat)](mailto:marcos.amaral.job@gmail.com)
+
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou um QA com foco em testes manuais, APIs e documentação. Fiz minha transição de carreira após 6 anos atuando como professor de musculação. Hoje aplico minha análise crítica, empatia e atenção aos detalhes para garantir entregas de qualidade e usabilidade para os usuários finais.
+Sou um QA com foco em testes manuais, automação com Cypress, testes de API e documentação técnica. Após 6 anos como professor de musculação, realizei minha transição para tecnologia, trazendo comigo habilidades como análise crítica, empatia e atenção aos detalhes. Tenho experiência validando releases, criando cenários de testes e entregando documentação clara e funcional.
 
 ---
 
 ## 🛠️ Habilidades
 
 - ✅ Testes Manuais e Exploratórios
-- ✅ Validação de Releases (fixes, melhorias e novas funcionalidades)
-- ✅ Testes de API com Postman (intermediário)
-- ✅ Consultas com MySQL usando MySQL Workbench
-- ✅ Criação de Documentação Funcional e Técnica
+- ✅ Validação de Releases (bugfixes, melhorias e novas funcionalidades)
+- ✅ Testes de API com Postman (nível intermediário)
+- ✅ Automação de testes com Cypress (em desenvolvimento contínuo)
+- ✅ Consultas com MySQL (via MySQL Workbench)
+- ✅ Escrita de documentação funcional e técnica
 - ✅ Conhecimento prático em Gherkin
-- ✅ Noções de Cypress
 
-**Ferramentas**: Postman | Cypress | Robot Framework| MySQL Workbench | Notion | Git | Trello
+**Ferramentas**: Cypress · Postman · MySQL Workbench · Notion · Git · Trello
 
 ---
 
@@ -31,37 +33,38 @@ Sou um QA com foco em testes manuais, APIs e documentação. Fiz minha transiç�
 
 ### 🔹 [Cypress + BDD (comentado) – Testes E2E no CAC-TAT](https://github.com/mvqe/CAC-TAT-cypress-tests)
 
-> 🧪 Adaptei o projeto do curso da Talking About Testing School utilizando comentários em formato BDD seguidos pela automação dos testes com Cypress.
+> 🧪 Adaptação do projeto CAC-TAT com automação de testes E2E em Cypress e cenários escritos em formato BDD (comentado).
 
 **Tecnologias**: JavaScript, Cypress  
-**Destaque**: Boa prática de organização dos testes e clareza no raciocínio BDD.
+**Destaque**: Clareza nos testes e boa organização com abordagem BDD.
 
 ---
 
 ### 🔹 [Postman – Testes de API (Happy Path) no Server Rest API](https://github.com/mvqe/server-rest-api-happy-path-postman-tests)
 
-> 🔍 Coleções de testes organizadas com variáveis globais, pré-requisitos e scripts para checagem de resposta em uma API REST fictícia.
+> 🔍 Coleções bem estruturadas com variáveis, pré-requisitos e scripts de verificação para uma API REST fictícia.
 
-**Tecnologias**: Postman, Javascript  
-**Destaque**: Testes de fluxo completo e organização das requisições.
+**Tecnologias**: Postman, JavaScript  
+**Destaque**: Foco em organização e testes de fluxo principal (happy path).
 
 ---
 
 ### 🔹 [Cypress – Testes E2E (Happy Path) no WalkDog](https://github.com/mvqe/walkdog-e2e-cypress-tests)
 
-> 🤖 Projeto de testes automatizados para a aplicação WalkDog, focando no fluxo principal de uso utilizando cypress.
+> 🤖 Testes automatizados do fluxo principal da aplicação fictícia WalkDog, utilizando Cypress para validar o comportamento esperado.
 
-**Tecnologias**: Cypress 
-**Destaque**: Validações claras seguindo boas práticas de testes automatizados com Cypress.
+**Tecnologias**: Cypress  
+**Destaque**: Estrutura limpa e aplicação de boas práticas na automação.
 
 ---
 
 ## 🧾 Certificações
 
+- 🟢 **CTFL – ISTQB Certified Tester Foundation Level**
 - 🟠 Postman Student Expert – Postman Academy  
 - 🟣 MySQL Explorer – Oracle University  
 - 🔵 Cypress do Zero à Nuvem – Udemy  
-- 🟡 Javascript para QAs – Udemy  
+- 🟡 JavaScript para QAs – Udemy  
 - 🔵 Testes Exploratórios e de Software – Udemy  
 - 🟢 User Experience – FIAP  
 - 🔴 DevOps e Agile Culture – FIAP  
@@ -70,7 +73,7 @@ Sou um QA com foco em testes manuais, APIs e documentação. Fiz minha transiç�
 
 ## 📫 Contato
 
-📧 marcos.amaral.job@gmail.com  
+📧 **marcos.amaral.job@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/marcosviniciusconnect)  
 💻 [GitHub](https://github.com/mvqe)
 
