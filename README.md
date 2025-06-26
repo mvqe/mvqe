@@ -47,12 +47,12 @@ Sou um QA com foco em testes manuais, APIs e documentação. Fiz minha transiç�
 
 ---
 
-### 🔹 [Robot Framework – Testes E2E (Happy Path) no WalkDog](https://github.com/mvqe/walkdog-rf-happy-path-tests)
+### 🔹 [Cypress – Testes E2E (Happy Path) no WalkDog](https://github.com/mvqe/walkdog-e2e-cypress-tests)
 
-> 🤖 Projeto de testes automatizados para a aplicação WalkDog, focando no fluxo principal de uso com o Robot Framework e linguagem Gherkin.
+> 🤖 Projeto de testes automatizados para a aplicação WalkDog, focando no fluxo principal de uso utilizando cypress.
 
-**Tecnologias**: Robot Framework, Gherkin  
-**Destaque**: Scripts bem estruturados com cenários organizados por diretórios e validações no padrão BDD.
+**Tecnologias**: Cypress 
+**Destaque**: Validações claras seguindo boas práticas de testes automatizados com Cypress.
 
 ---
 
