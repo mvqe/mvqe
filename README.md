@@ -40,21 +40,21 @@ Sou um QA com foco em testes manuais, automação com Cypress, testes de API e d
 
 ---
 
-### 🔹 [Postman – Testes de API (Happy Path) no Server Rest API](https://github.com/mvqe/server-rest-api-happy-path-postman-tests)
-
-> 🔍 Coleções bem estruturadas com variáveis, pré-requisitos e scripts de verificação para uma API REST fictícia.
-
-**Tecnologias**: Postman, JavaScript  
-**Destaque**: Foco em organização e testes de fluxo principal (happy path).
-
----
-
 ### 🔹 [Cypress – Testes E2E (Happy Path) no WalkDog](https://github.com/mvqe/walkdog-e2e-cypress-tests)
 
 > 🤖 Testes automatizados do fluxo principal da aplicação fictícia WalkDog, utilizando Cypress para validar o comportamento esperado (projeto orig.
 
 **Tecnologias**: Cypress  
 **Destaque**: Estrutura limpa e aplicação de boas práticas na automação.
+
+---
+
+### 🔹 [Postman – Testes de API (Happy Path) no Server Rest API](https://github.com/mvqe/server-rest-api-happy-path-postman-tests)
+
+> 🔍 Coleções bem estruturadas com variáveis, pré-requisitos e scripts de verificação para uma API REST fictícia.
+
+**Tecnologias**: Postman, JavaScript  
+**Destaque**: Foco em organização e testes de fluxo principal (happy path).
 
 ---
 
