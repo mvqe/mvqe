@@ -92,9 +92,10 @@ Mapeamento dos endpoints da API, incluindo métodos, parâmetros, respostas espe
 
 ## 📫 Contato
 
-📧 **marcos.amaral.job@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/marcosviniciusconnect)  
-💻 [GitHub](https://github.com/mvqe)
+💻 [GitHub](https://github.com/mvqe)  
+📧 **marcos.amaral.job@gmail.com**
+
 
 ---
 
