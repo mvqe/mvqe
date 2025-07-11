@@ -42,7 +42,7 @@ Sou um QA com foco em testes manuais, automação com Cypress, testes de API e d
 
 ---
 
-### 🔹 [JSONPlaceholder – Cypress Smoke Tests](https://github.com/mvqe/jsonplaceholder-cypress-smoke-tests)
+### 🔹 [JSONPlaceholder – Cypress API Smoke Tests](https://github.com/mvqe/jsonplaceholder-cypress-smoke-tests)
 
 > 🚀 Automação de smoke tests para a API pública JSONPlaceholder utilizando Cypress. Validação dos principais endpoints de forma simples e eficiente.
 
