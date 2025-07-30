@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Marcos Vinícius Amaral Marques
 
-🎯 **QA Engineer | Testes Manuais & Automatizados com Cypress | Documentação Técnica | Ex-Professor de Musculação**
+🎯 **QA Engineer | Testes Manuais | Testes Automatizados | Documentação Técnica | Ex-Professor de Musculação**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/marcosviniciusconnect)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/mvqe)
