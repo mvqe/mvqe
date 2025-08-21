@@ -25,7 +25,15 @@ Sou um QA com foco em testes manuais, automação com Cypress, testes de API e d
 - ✅ Escrita de documentação funcional e técnica
 - ✅ Conhecimento prático em Gherkin
 
-**Ferramentas**: Cypress · Postman · MySQL Workbench · Miro · Git · Jira
+### ⚡ Stack & Ferramentas  
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) 
+![Miro](https://img.shields.io/badge/-Miro-050038?logo=miro&logoColor=yellow)
+
 
 ---
 
