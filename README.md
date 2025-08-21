@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Marcos Vinícius Amaral Marques
 
-🎯 **QA Engineer | Testes Manuais | Testes Automatizados | Documentação Técnica | Ex-Professor de Musculação**
+🎯 **Analista de QA | ISTQB® CTFL | Automação de Testes | Cypress | Postman**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/marcosviniciusconnect)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/mvqe)
@@ -25,7 +25,7 @@ Sou um QA com foco em testes manuais, automação com Cypress, testes de API e d
 - ✅ Escrita de documentação funcional e técnica
 - ✅ Conhecimento prático em Gherkin
 
-**Ferramentas**: Cypress · Postman · MySQL Workbench · Miro · Git · Trello
+**Ferramentas**: Cypress · Postman · MySQL Workbench · Miro · Git · Jira
 
 ---
 
