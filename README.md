@@ -17,13 +17,13 @@ Sou um QA com foco em testes manuais, automação com Cypress, testes de API e d
 
 ## 🛠️ Habilidades
 
-✅ Testes Manuais e Exploratórios
-✅ Validação de Releases (bugfixes, melhorias e novas funcionalidades)
-✅ Testes de API com Postman (nível intermediário)
-✅ Automação de testes com Cypress (em desenvolvimento contínuo)
-✅ Consultas com MySQL (via MySQL Workbench)
-✅ Escrita de documentação funcional e técnica
-✅ Conhecimento prático em Gherkin
+- ✅ Testes Manuais e Exploratórios
+- ✅ Validação de Releases (bugfixes, melhorias e novas funcionalidades)
+- ✅ Testes de API com Postman (nível intermediário)
+- ✅ Automação de testes com Cypress (em desenvolvimento contínuo)
+- ✅ Consultas com MySQL (via MySQL Workbench)
+- ✅ Escrita de documentação funcional e técnica
+- ✅ Conhecimento prático em Gherkin
 
 ### ⚡ Stack & Ferramentas  
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white) 
