@@ -40,8 +40,8 @@ Sou um **QA Analyst** especializado em testes de API e automação com Cypress. 
 
 ### 📂 Projetos em Destaque
 
-**🧪 [CAC-TAT – Cypress BDD E2E Tests](https://github.com/mvqe/CAC-TAT-cypress-tests)** Automação de testes E2E com Cypress e abordagem BDD.  
-*Destaque: Estratégia visual via [Mural Mind Map](https://app.mural.co/t/mmqaworkspace1917/m/mmqaworkspace1917/1749130179578/9c1f3c404a223289c1fe7a08433853f0afb6d7c7?sender=u3bc431877dc8638d55494648).*
+**🧪 [ServeRest – API Happy Path Postman Tests](https://github.com/mvqe/server-rest-api-happy-path-postman-tests)** Testes de API REST utilizando Postman para validação de caminhos felizes (happy path), garantindo a integridade dos endpoints e payloads.  
+*Destaque: Organização de coleções, variáveis de ambiente e asserções automatizadas.*
 
 **🚀 [JSONPlaceholder – Cypress API Smoke Tests](https://github.com/mvqe/jsonplaceholder-cypress-smoke-tests)** Automação de API smoke tests para validação rápida de status codes e payloads.  
 *Destaque: Foco em testes de contrato e consistência de dados.*
