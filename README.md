@@ -1,88 +1,69 @@
-# 👋 Olá! Eu sou o Marcos Vinícius Amaral Marques
+# 👋 Olá, eu sou o Marcos Vinícius!
 
-🎯 **QA Analyst | ISTQB® CTFL | API Testing | Cypress | Postman | Swagger**
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-QA%20Analyst-blue?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Certification-ISTQB%C2%AE%20CTFL-green?style=for-the-badge" alt="ISTQB">
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/marcosviniciusconnect)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/mvqe)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=flat)](mailto:marcos.amaral.job@gmail.com)
-
----
-
-## 👨‍💻 Sobre Mim
-
-Sou QA com foco em **testes de API, validação de contratos e automação com Cypress**, além de testes manuais e documentação técnica. Atuo validando releases, identificando inconsistências entre **documentação Swagger/OpenAPI e o comportamento real das APIs**, criando cenários de testes e garantindo qualidade desde a camada de backend.
-
-Após 6 anos como professor de musculação, realizei minha transição para tecnologia, trazendo habilidades como análise crítica, empatia e atenção aos detalhes — aplicadas diariamente em ambientes ágeis.
-
----
-
-## 🛠️ Habilidades
-
-- ✅ Testes Manuais e Exploratórios  
-- ✅ Validação de Releases (bugfixes, melhorias e novas funcionalidades)  
-- ✅ Testes de API com Postman (nível intermediário)  
-- ✅ Validação de contrato de API (Swagger / OpenAPI)  
-- ✅ Automação de testes com Cypress (E2E e API – evolução contínua)  
-- ✅ Consultas com MySQL (via MySQL Workbench)  
-- ✅ Escrita de documentação funcional e técnica  
-- ✅ Conhecimento prático em Gherkin  
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcosviniciusconnect">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/mvqe">
+    <img src="https://img.shields.io/badge/-GitHub-black?logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:marcos.amaral.job@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ---
 
-### ⚡ Stack & Ferramentas
+### 📖 Sobre Mim
 
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
-![Miro](https://img.shields.io/badge/-Miro-050038?logo=miro&logoColor=yellow)
+Sou um **QA Analyst** especializado em testes de API e automação com Cypress. Atuo na validação de releases, garantindo a integridade entre a documentação Swagger e o comportamento real das aplicações.
+
+> Vindo de uma trajetória de 6 anos como professor de musculação, trago para a tecnologia uma alta capacidade analítica, disciplina e foco na experiência do usuário. Sou movido por garantir que o produto final seja seguro, funcional e bem documentado.
 
 ---
 
-## 📂 Projetos em Destaque
+### 🛠️ Toolbox (Tech Stack)
 
-### 🔹 [CAC-TAT – Cypress BDD E2E Tests](https://github.com/mvqe/CAC-TAT-cypress-tests)
-
-🧪 Automação de testes E2E com Cypress utilizando abordagem BDD, com foco em clareza de cenários, validação funcional e documentação viva dos requisitos.
-
-**Tecnologias:** JavaScript, Cypress  
-**Destaque:** Organização, clareza nos cenários e abordagem BDD  
-
-📌 **Mapa Mental:**  
-[CAC-TAT – Mural Mind Map](https://app.mural.co/t/mmqaworkspace1917/m/mmqaworkspace1917/1749130179578/9c1f3c404a223289c1fe7a08433853f0afb6d7c7?sender=u3bc431877dc8638d55494648)
+| Categoria | Ferramentas & Tecnologias |
+| :--- | :--- |
+| **Automação & Testes** | ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman) ![Gherkin](https://img.shields.io/badge/-Gherkin-12AD2E?logo=cucumber&logoColor=white) |
+| **Linguagens & Dados** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **Documentação & Gestão** | ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira) ![Miro](https://img.shields.io/badge/-Miro-050038?logo=miro&logoColor=yellow) |
+| **Versionamento** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) |
 
 ---
 
-### 🔹 [JSONPlaceholder – Cypress API Smoke Tests](https://github.com/mvqe/jsonplaceholder-cypress-smoke-tests)
+### 📂 Projetos em Destaque
 
-🚀 Automação de **API smoke tests**, validando status codes, payloads e consistência das respostas dos principais endpoints REST da API JSONPlaceholder, utilizando Cypress.
+**🧪 [CAC-TAT – Cypress BDD E2E Tests](https://github.com/mvqe/CAC-TAT-cypress-tests)** Automação de testes E2E com Cypress e abordagem BDD.  
+*Destaque: Estratégia visual via [Mural Mind Map](https://app.mural.co/t/mmqaworkspace1917/m/mmqaworkspace1917/1749130179578/9c1f3c404a223289c1fe7a08433853f0afb6d7c7?sender=u3bc431877dc8638d55494648).*
 
-**Tecnologias:** JavaScript, Cypress  
-**Destaque:** Testes rápidos, claros e objetivos com foco em cobertura mínima viável.
-
----
-
-## 🧾 Certificações
-
-- 🟢 **CTFL – ISTQB Certified Tester Foundation Level**  
-- 🟠 Postman Student Expert – Postman Academy  
-- 🔵 Cypress do Zero à Nuvem – Udemy  
-- 🟡 JavaScript para QAs – Udemy  
-- 🔵 Testes Exploratórios – Udemy  
-- 🟢 User Experience – FIAP  
-- 🔴 DevOps e Agile Culture – FIAP  
+**🚀 [JSONPlaceholder – Cypress API Smoke Tests](https://github.com/mvqe/jsonplaceholder-cypress-smoke-tests)** Automação de API smoke tests para validação rápida de status codes e payloads.  
+*Destaque: Foco em testes de contrato e consistência de dados.*
 
 ---
 
-## 📫 Contato
+### 📜 Formação e Certificações
 
-🔗 [LinkedIn](https://www.linkedin.com/in/marcosviniciusconnect)  
-💻 [GitHub](https://github.com/mvqe)  
-📧 **marcos.amaral.job@gmail.com**
+**Certificações Internacionais** 
+
+🥇 ISTQB® Certified Tester Foundation Level (CTFL)  
+🚀 Postman Student Expert – Postman Academy  
+
+**Cursos Complementares** 
+
+🎓 Cypress do Zero à Nuvem – Udemy  
+🎓 JavaScript para QAs – Udemy  
+🎓 Testes Exploratórios – Udemy  
+🎓 UX / DevOps e Agile Culture – FIAP  
 
 ---
 
-✨ *Sempre buscando contribuir para produtos mais seguros, previsíveis e bem documentados.*
+<p align="center">
+  <i>"Qualidade não é um ato, é um hábito."</i>
+</p>
